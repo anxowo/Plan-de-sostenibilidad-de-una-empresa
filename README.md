@@ -5,7 +5,7 @@
 3. [Aspectos ASG materiales](ASG.md)
 
 ---
-![introduccion](img/introduccion.jpg)
+![introduccion](Img/introduccion.jpg)
 ---
 [Conclusiones](conclusiones.md)
 
