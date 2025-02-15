@@ -10,7 +10,7 @@ Algunos de los factores que contribuyen a este alto consumo incluyen:
 
 Para mitigar este impacto, diversas compañías han implementado estrategias como la optimización del consumo energético mediante inteligencia artificial, el uso de energías renovables y el diseño de centros de datos más eficientes.  
 
-![impacto](img/impacto.jpg)
+![impacto](Img/impacto.jpg)
 
 ## **Generación de residuos electrónicos**  
 El sector TI es responsable de una gran cantidad de residuos electrónicos, que incluyen dispositivos obsoletos o dañados como computadoras, teléfonos móviles, servidores y otros equipos tecnológicos.  
