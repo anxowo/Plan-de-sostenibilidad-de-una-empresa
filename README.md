@@ -9,7 +9,7 @@
 ---
 [Conclusiones](conclusiones.md)
 
-[Mapa conceptual](mapa.md)
+[Mapa conceptual](/Img/Sostenibilidad en el sector de la tecnología de la información (TI)~2.png)
 
 [Glosario](glosario.md)
 
