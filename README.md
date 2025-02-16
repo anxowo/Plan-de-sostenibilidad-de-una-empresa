@@ -9,7 +9,7 @@
 ---
 [Conclusiones](conclusiones.md)
 
-[Mapa conceptual](mapa.md)
+[Mapa conceptual](mapa.png)
 
 [Glosario](glosario.md)
 
